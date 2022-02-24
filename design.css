@@ -1,0 +1,29 @@
+.rectangle{
+    width: 157px;
+    height: 100px;
+    background-color: red;
+    padding: 100px;
+    border: 2px solid;
+    margin-left: 45px;
+    margin-top: -126px;
+}
+
+.triangle{
+    margin-top: 129px;
+    margin-left: 98px;
+    width: 50px;
+    border-top: 2px solid;
+    height: 50px;
+    border-left: 2px solid black;
+    padding: 100px;
+    background-color: red;
+    transform: rotate(45deg);
+}
+
+.circle{
+    width: 80px;
+    border-radius: 100%;
+    margin-top: -64px;
+    margin-left: -60px;
+    background-color: yellow;
+    height: 80px;
